@@ -1,0 +1,12 @@
+#------------------------------------ Functionality ------------------------------------#
+* Converts text to morse code and back
+* Create GUI, which allows input of morse code / text and converts
+* Create a website to do it - dynamically outputs text
+
+#------------------------------------ Pseudo Code ------------------------------------#
+1) Variables:
+    * morse_code_dict:
+        * dictionary
+        * keys - morse code string
+        * values - letter/number associated with the string
+2)
